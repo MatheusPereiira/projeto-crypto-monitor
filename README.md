@@ -127,8 +127,8 @@ projeto_crypto/
 ---
 
 #  Licença
-Este projeto está licenciado sob a **MIT License**.  
-Você pode usar, modificar e distribuir livremente.
+- Este projeto está licenciado sob a **MIT License**.  
+- Você pode usar, modificar e distribuir livremente.
 
 ---
 
