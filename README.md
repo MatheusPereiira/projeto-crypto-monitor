@@ -76,8 +76,8 @@ O sistema exibe **preços atualizados**, **volume**, **variação percentual**, 
 
 ##  Clone o repositório
 ```bash
-git clone https://github.com/MatheusPereiira/projeto-crypto-monitor.git
-cd projeto-crypto-monitor
+git clone https://github.com/MatheusPereiira/crypto-monitor.git
+cd crypto-monitor
 ```
 
 ##  Crie um ambiente virtual
